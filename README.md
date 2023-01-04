@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Balqees12
+- 👋 Hi, I’m Balqees
 - 👀 I’m interested in software development 
 - 🌱 I’m currently learning software engineering 
 - 💞️ I’m looking to collaborate on more projects
